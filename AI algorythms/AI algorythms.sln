@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1F049D6C-FD1E-8275-F2CD-6BCEF67C2405}") = "AI algorythms", "Assembly-CSharp-firstpass.csproj", "{C41B5924-1982-11BB-086E-3EF48A3C16CE}"
+EndProject
+Project("{1F049D6C-FD1E-8275-F2CD-6BCEF67C2405}") = "AI algorythms", "Assembly-CSharp.csproj", "{CBA284B9-C19A-6D3A-F2A7-3BEACBE8F46F}"
+EndProject
+Project("{1F049D6C-FD1E-8275-F2CD-6BCEF67C2405}") = "AI algorythms", "Assembly-CSharp-Editor.csproj", "{FDD20936-1E0C-37B4-4475-6D9C910B7868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41B5924-1982-11BB-086E-3EF48A3C16CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41B5924-1982-11BB-086E-3EF48A3C16CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41B5924-1982-11BB-086E-3EF48A3C16CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41B5924-1982-11BB-086E-3EF48A3C16CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA284B9-C19A-6D3A-F2A7-3BEACBE8F46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA284B9-C19A-6D3A-F2A7-3BEACBE8F46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA284B9-C19A-6D3A-F2A7-3BEACBE8F46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA284B9-C19A-6D3A-F2A7-3BEACBE8F46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD20936-1E0C-37B4-4475-6D9C910B7868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD20936-1E0C-37B4-4475-6D9C910B7868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD20936-1E0C-37B4-4475-6D9C910B7868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD20936-1E0C-37B4-4475-6D9C910B7868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
